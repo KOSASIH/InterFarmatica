@@ -406,11 +406,13 @@ The project development roadmap for InterFarmatica involves laying out the key m
 1. Research and develop virtual reality (VR) and augmented reality (AR) interfaces for interacting with InterFarmatica, enabling immersive data visualization, training simulations, and virtual collaboration.
 2. Pilot VR/AR applications with healthcare professionals, researchers, and supply chain stakeholders to gather feedback and optimize user experiences.
 
-Remember that each phase should align with the project's overarching goals and strategic vision. The roadmap should remain flexible to adapt to emerging technologies, regulatory changes, and user feedback while maintaining a focus on driving innovation and positive impact in the pharmaceutical industry.
+*Remember* : 
 
-Remember, the specifics of each phase will depend on the project's evolving priorities, emerging technologies, and industry trends. A dynamic and adaptable roadmap will serve as a guide for the project's ongoing success and impact within the pharmaceutical supply chain ecosystem.
+- that each phase should align with the project's overarching goals and strategic vision. The roadmap should remain flexible to adapt to emerging technologies, regulatory changes, and user feedback while maintaining a focus on driving innovation and positive impact in the pharmaceutical industry.
 
-Remember that each phase's duration and content may vary based on priorities, resources, and emerging trends. A comprehensive roadmap should be flexible enough to accommodate changes and adapt to new challenges and opportunities as they arise.
+- the specifics of each phase will depend on the project's evolving priorities, emerging technologies, and industry trends. A dynamic and adaptable roadmap will serve as a guide for the project's ongoing success and impact within the pharmaceutical supply chain ecosystem.
+
+- that each phase's duration and content may vary based on priorities, resources, and emerging trends. A comprehensive roadmap should be flexible enough to accommodate changes and adapt to new challenges and opportunities as they arise.
 
 Throughout each phase, continuous communication, collaboration, and adaptation will be essential to ensure the project stays aligned with its goals and stakeholders' needs. Adjust the timelines and tasks based on your team's resources, expertise, and specific project requirements.
 
