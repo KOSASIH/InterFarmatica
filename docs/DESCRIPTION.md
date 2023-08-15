@@ -34,7 +34,7 @@ InterFarmatica invites stakeholders, visionaries, and industry leaders to collab
 
 Join us in transforming the pharmaceutical supply chain and ushering in a new era of healthcare innovation with InterFarmatica.
 
-[Project website](https://sample-project.s3-web.us-east.cloud-object-storage.appdomain.cloud/)
+[Project website](https://github.com/KOSASIH/InterFarmatica-MicroApp)
 
 ### Results
 
