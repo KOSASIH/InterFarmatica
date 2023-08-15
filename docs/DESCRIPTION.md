@@ -69,8 +69,7 @@ To everyone who has contributed to the journey of InterFarmatica, your support a
 
 Thank you.
 
-KOSASIH 
-
+[KOSASIH](https://www.linkedin.com/in/kosasih-81b46b5a) 
 Project Leader
 
 ---
