@@ -28,7 +28,9 @@ At the core of InterFarmatica lies a vision to bridge the gaps that hinder the s
 
 As InterFarmatica embarks on its transformative journey, the roadmap unfolds with unwavering commitment to innovation, ethical AI usage, regulatory compliance, and user-driven development. With each phase, InterFarmatica strives to revolutionize drug discovery, manufacturing, distribution, and patient care, cementing its position as a trailblazer in the pharmaceutical supply chain landscape.
 
-**Join Us in Reshaping Healthcare:** InterFarmatica invites stakeholders, visionaries, and industry leaders to collaborate in this revolutionary journey. Together, we aim to redefine pharmaceutical excellence, drive positive patient outcomes, and pave the way for a more transparent, efficient, and patient-centric future.
+**Join Us in Reshaping Healthcare:** 
+
+InterFarmatica invites stakeholders, visionaries, and industry leaders to collaborate in this revolutionary journey. Together, we aim to redefine pharmaceutical excellence, drive positive patient outcomes, and pave the way for a more transparent, efficient, and patient-centric future.
 
 Join us in transforming the pharmaceutical supply chain and ushering in a new era of healthcare innovation with InterFarmatica.
 
