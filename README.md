@@ -306,7 +306,7 @@ _INSTRUCTIONS: The following deliverables are suggested, but **optional**. Addit
 
 ### How to run the project
 
-Certainly! Here are instructions for running the InterFarmatica project on a local machine for development and testing purposes, as well as guidelines for deploying the project in a production environment:
+Here are instructions for running the InterFarmatica project on a local machine for development and testing purposes, as well as guidelines for deploying the project in a production environment:
 
 **Running InterFarmatica Locally (Development and Testing)**
 
