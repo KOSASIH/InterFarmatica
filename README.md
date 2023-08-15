@@ -2,6 +2,7 @@
 [![Jekyll site CI](https://github.com/KOSASIH/InterFarmatica/actions/workflows/jekyll-docker.yml/badge.svg)](https://github.com/KOSASIH/InterFarmatica/actions/workflows/jekyll-docker.yml)
 [![CodeQL](https://github.com/KOSASIH/InterFarmatica/actions/workflows/codeql.yml/badge.svg)](https://github.com/KOSASIH/InterFarmatica/actions/workflows/codeql.yml)
 [![Sample React App CI](https://github.com/KOSASIH/InterFarmatica/actions/workflows/sample_react_app_pr_ci.yaml/badge.svg)](https://github.com/KOSASIH/InterFarmatica/actions/workflows/sample_react_app_pr_ci.yaml)
+[![Greetings](https://github.com/KOSASIH/InterFarmatica/actions/workflows/greetings.yml/badge.svg)](https://github.com/KOSASIH/InterFarmatica/actions/workflows/greetings.yml)
 
 # InterFarmatica 
 
