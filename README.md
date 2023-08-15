@@ -2,7 +2,7 @@
 
 #InterFarmatica 
 
-
+Interfarmatica is a healthcare microservice supply chain system that aims to revolutionize the pharmaceutical industry by leveraging microservices architecture and modern technologies.
 
 - [Project summary](#project-summary)
   - [The issue we are hoping to solve](#the-issue-we-are-hoping-to-solve)
