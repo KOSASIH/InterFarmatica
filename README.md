@@ -72,9 +72,28 @@ By implementing these technological elements, InterFarmatica aims to create a co
 
 ### IBM AI service(s) used
 
-_INSTRUCTIONS: Included here is a list of commonly used IBM AI services. Remove any services you did not use, or add others from the linked catalog not already listed here. Leave only those included in your solution code. Provide details on where and how you used each IBM AI service to help judges review your implementation. Remove these instructions._
+ 
+- [IBM Natural Language Understanding](https://cloud.ibm.com/catalog/services/natural-language-understanding) - IBM Natural Language Understanding (NLU) can play a crucial role in enhancing various aspects of your InterFarmatica solution within the pharmaceutical supply chain. Here are some potential use cases for incorporating IBM NLU:
 
-- [IBM Natural Language Understanding](https://cloud.ibm.com/catalog/services/natural-language-understanding) - WHERE AND HOW THIS IS USED IN OUR SOLUTION
+1. **Demand Analysis and Forecasting:** NLU can analyze text data from sources like medical literature, patient records, and social media to understand trends, sentiments, and emerging healthcare needs. This information can help predict demand for specific pharmaceutical products and guide inventory management.
+
+2. **Regulatory Compliance:** NLU can extract key insights from regulatory documents and guidelines, ensuring that the pharmaceutical supply chain adheres to compliance standards and regulatory changes.
+
+3. **Quality Control and Product Reviews:** By analyzing customer feedback, reviews, and complaints, NLU can provide insights into product quality and patient satisfaction. This data can inform quality control measures and contribute to continuous improvement.
+
+4. **Risk Assessment:** NLU can help identify and assess potential risks within the supply chain, such as disruptions in production or distribution. This proactive approach allows for timely mitigation strategies.
+
+5. **Market Research:** NLU can analyze market reports, competitor information, and news articles to provide insights into market trends, competitive landscape, and opportunities for product expansion.
+
+6. **Supplier and Partner Analysis:** NLU can assist in evaluating potential suppliers and partners by analyzing their online presence, reputation, and customer feedback, helping to make informed decisions about collaborations.
+
+7. **Automated Customer Support:** NLU-powered chatbots or virtual assistants can provide real-time customer support, answering queries and resolving issues related to pharmaceutical products, orders, and deliveries.
+
+8. **Clinical Trials Data Analysis:** NLU can extract relevant information from clinical trial reports and research papers, aiding in the assessment of drug effectiveness, safety, and potential side effects.
+
+9. **Knowledge Base Development:** NLU can help in building a comprehensive knowledge base by extracting and categorizing information from medical literature, research papers, and industry reports.
+
+To incorporate IBM NLU into InterFarmatica, you would integrate the service's API into your system. The API allows you to analyze text data, extract entities, sentiments, concepts, keywords, and more. By leveraging NLU, you can gain deeper insights from textual data, enabling more informed decision-making and improved overall efficiency within the pharmaceutical supply chain.
 - [Watson Assistant](https://cloud.ibm.com/catalog/services/watson-assistant) - WHERE AND HOW THIS IS USED IN OUR SOLUTION
 - [Watson Discovery](https://cloud.ibm.com/catalog/services/watson-discovery) - WHERE AND HOW THIS IS USED IN OUR SOLUTION
 - [Watson Speech to Text](https://cloud.ibm.com/catalog/services/speech-to-text) - WHERE AND HOW THIS IS USED IN OUR SOLUTION
