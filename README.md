@@ -205,7 +205,7 @@ _INSTRUCTIONS: The following deliverables should be officially posted to your My
 ### Project development roadmap
 
 
-Creating a project development roadmap for InterFarmatica involves outlining the key milestones, tasks, and timelines required to bring your healthcare microservice supply chain system to fruition. Here's a suggested roadmap structure:
+The project development roadmap for InterFarmatica involves laying out the key milestones, tasks, and timelines required to bring your healthcare microservices supply chain system to life. Here is the structure of the InterFarmatica roadmap :
 
 **Phase 1: Project Initiation and Planning (Duration: 2 months)**
 
