@@ -670,33 +670,34 @@ This project is licensed under the Apache 2 License - see the [LICENSE](LICENSE)
 
 ### Acknowledgments
 
-Acknowledgments for a project like InterFarmatica are an important way to recognize and express gratitude to individuals and organizations that have contributed to its development and success. Here's an example of acknowledgments that you could include:
-
----
-
-**Acknowledgments**
-
 The realization of InterFarmatica and its transformative impact on the pharmaceutical supply chain would not have been possible without the dedication, support, and collaboration of numerous individuals and organizations. We extend our heartfelt gratitude to the following:
 
 **Our Dedicated Team:**
+
 We are deeply appreciative of the tireless efforts and expertise of our talented team members who have worked diligently to conceptualize, design, and develop InterFarmatica. Your unwavering commitment and innovative thinking have been the driving force behind this endeavor.
 
 **Industry Partners:**
+
 We extend our sincere thanks to our industry partners and collaborators who have shared their insights, guidance, and domain knowledge. Your contributions have played a crucial role in shaping the vision and functionality of InterFarmatica.
 
 **Beta Testers and Users:**
+
 We are grateful to the beta testers and early users who provided invaluable feedback, helping us refine and enhance InterFarmatica's features, usability, and performance. Your input has been instrumental in ensuring that the platform meets the diverse needs of our stakeholders.
 
 **IBM Watson Services:**
+
 We acknowledge the exceptional capabilities of IBM Watson services, including Natural Language Understanding, Watson Discovery, Watson Assistant, Speech to Text, and Text to Speech, which have significantly enriched InterFarmatica's AI-driven functionalities.
 
 **Regulatory Authorities:**
+
 We extend our appreciation to regulatory authorities for their ongoing dialogue, guidance, and cooperation. Your insights have been instrumental in shaping InterFarmatica's compliance features and ensuring adherence to global pharmaceutical regulations.
 
 **Advisors and Consultants:**
+
 We express our gratitude to our advisory board members and consultants who provided strategic guidance, technological insights, and critical feedback, contributing to the overall success of InterFarmatica.
 
 **Patients and Healthcare Professionals:**
+
 Finally, we recognize the patients and healthcare professionals who inspire our mission. Your trust and dedication to advancing pharmaceutical excellence drive us to continuously innovate and create positive patient outcomes.
 
 To everyone who has contributed to the journey of InterFarmatica, your support and commitment have been the foundation upon which we build a more transparent, efficient, and patient-centric future for the pharmaceutical industry.
