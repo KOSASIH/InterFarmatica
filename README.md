@@ -1,5 +1,6 @@
 [![License](https://img.shields.io/badge/License-Apache2-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0) [![Community](https://img.shields.io/badge/Join-Community-blue)](https://developer.ibm.com/callforcode/solutions/projects/get-started/)
 [![Jekyll site CI](https://github.com/KOSASIH/InterFarmatica/actions/workflows/jekyll-docker.yml/badge.svg)](https://github.com/KOSASIH/InterFarmatica/actions/workflows/jekyll-docker.yml)
+[![CodeQL](https://github.com/KOSASIH/InterFarmatica/actions/workflows/codeql.yml/badge.svg)](https://github.com/KOSASIH/InterFarmatica/actions/workflows/codeql.yml)
 [![Sample React App CI](https://github.com/KOSASIH/InterFarmatica/actions/workflows/sample_react_app_pr_ci.yaml/badge.svg)](https://github.com/KOSASIH/InterFarmatica/actions/workflows/sample_react_app_pr_ci.yaml)
 
 # InterFarmatica 
