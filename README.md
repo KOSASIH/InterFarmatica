@@ -267,7 +267,34 @@ Creating a project development roadmap for InterFarmatica involves outlining the
 
 Throughout each phase, continuous communication, collaboration, and adaptation will be essential to ensure the project stays aligned with its goals and stakeholders' needs. Adjust the timelines and tasks based on your team's resources, expertise, and specific project requirements.
 
+# Next For InterFarmatica 
+
+In the future, we plan to further enhance and expand the capabilities of InterFarmatica to solidify its position as a pioneering solution in the pharmaceutical supply chain. Some of the key areas we intend to focus on include:
+
+1. **Global Scaling:** Extend the reach of InterFarmatica to a wider international audience, collaborating with pharmaceutical companies, healthcare providers, and regulatory bodies in different regions to create a truly global ecosystem.
+
+2. **Advanced AI and Predictive Analytics:** Deepen the integration of AI technologies to provide predictive insights, enabling better demand forecasting, supply chain optimization, and proactive risk management.
+
+3. **IoT Integration:** Incorporate Internet of Things (IoT) devices and sensors to capture real-time data from manufacturing equipment, warehouses, and distribution centers, ensuring accurate and timely information across the supply chain.
+
+4. **Enhanced Blockchain Integration:** Expand the use of blockchain technology to enhance security, traceability, and transparency throughout the entire lifecycle of pharmaceutical products, from raw materials to patient consumption.
+
+5. **Personalized Medicine and Patient-Centric Approach:** Integrate patient data and preferences to enable more personalized treatment options and medication delivery, aligning with the growing trend towards patient-centric healthcare.
+
+6. **Regulatory Compliance Automation:** Develop AI-driven tools to automate regulatory compliance processes, reducing administrative burden and ensuring adherence to changing regulations in real time.
+
+7. **Collaborative Research and Innovation:** Foster partnerships with research institutions and universities to leverage InterFarmatica's data and insights for pharmaceutical research, innovation, and development of new treatments.
+
+8. **Sustainability Initiatives:** Implement eco-friendly practices within the supply chain, optimizing resource usage, reducing waste, and minimizing the carbon footprint of pharmaceutical production and distribution.
+
+9. **Ecosystem Expansion:** Collaborate with other technology providers, startups, and industry partners to create an interconnected ecosystem that promotes innovation, knowledge sharing, and collective problem-solving.
+
+10. **Continuous User Engagement:** Maintain a strong focus on user feedback and engagement to drive ongoing improvements, ensuring InterFarmatica remains aligned with the evolving needs and expectations of the pharmaceutical industry.
+
+As we look ahead, our commitment to innovation, collaboration, and leveraging cutting-edge technologies remains unwavering, as we strive to reshape and elevate the pharmaceutical industry through InterFarmatica's transformative approach.
+
 In the future we plan to...
+
 
 See below for our proposed schedule on next steps after Call for Code 2023 submission.
 
